@@ -1,0 +1,38 @@
+@brand-primary: darken(#428bca, 6.5%);
+
+body{
+  padding-top: 70px;
+}
+.container{
+  box-shadow: 5px 5px 5px 5px #428bca;
+  border-radius: 10px;
+  
+}
+
+h2{
+  font-size: 16px;
+  text-align: center;
+}
+li{
+  list-style:none;
+  text-align:left;
+  font-size: 14px;
+}
+
+#lahetysform{
+  padding: 10px;
+}
+
+#lahetysform label{
+  text-align:left;
+  
+}
+footer{
+border-top: 1px dotted #428bca;
+margin-top: 30px;
+text-align: center;
+}
+
+.pun{
+	color: red;
+}
